@@ -1,0 +1,195 @@
+1. Giới tính (Gender)
+Nhận xét: Dữ liệu cho thấy tỷ lệ khách hàng nam và nữ gần như cân bằng (Nam: 3549, Nữ: 3483). Điều này cho thấy công ty đang phục vụ cả hai giới tính một cách công bằng.
+
+Ảnh hưởng: Không có sự chênh lệch lớn về giới tính, do đó chiến dịch marketing có thể nhắm đến cả nam và nữ mà không cần ưu tiên nhóm nào.
+
+Giải pháp: Tiếp tục duy trì sự cân bằng trong các chiến dịch quảng cáo và dịch vụ để thu hút cả hai nhóm khách hàng.
+
+2. Người già (SeniorCitizen)
+Nhận xét: Chỉ có 1142 khách hàng là người già (trên 65 tuổi), chiếm tỷ lệ thấp so với tổng số khách hàng (5890 khách hàng trẻ).
+
+Ảnh hưởng: Nhóm khách hàng trẻ chiếm đa số, có thể do dịch vụ của công ty chưa thu hút được nhóm người cao tuổi.
+
+Giải pháp:
+
+Phát triển các gói dịch vụ phù hợp với nhu cầu của người già, như hỗ trợ kỹ thuật đặc biệt hoặc giảm giá cho nhóm này.
+
+Tăng cường quảng cáo nhắm đến nhóm khách hàng cao tuổi.
+
+3. Đối tác (Partner)
+Nhận xét:
+
+Số khách hàng có đối tác (Partner: 3393) và không có đối tác (3639) gần như tương đương.
+
+Ảnh hưởng: Khách hàng không có người phụ thuộc chiếm đa số, có thể họ có nhu cầu dịch vụ đơn giản hơn.
+
+Giải pháp:
+
+Đối với khách hàng có đối tác hoặc người phụ thuộc, có thể cung cấp các gói dịch vụ gia đình với giá ưu đãi.
+
+Tăng cường dịch vụ hỗ trợ cho khách hàng đơn lẻ để giữ chân họ.
+
+4. Số tháng gắn bó (Tenure)
+Nhận xét: Phân bổ số tháng gắn bó không đồng đều, với nhiều khách hàng mới (1 tháng: 613) và một số ít gắn bó lâu dài (72 tháng: 362).
+
+Ảnh hưởng: Tỷ lệ khách hàng rời bỏ sau thời gian ngắn có thể cao, ảnh hưởng đến doanh thu ổn định.
+
+Giải pháp:
+
+Triển khai chương trình khuyến mãi hoặc ưu đãi cho khách hàng gắn bó lâu dài.
+
+Phân tích nguyên nhân khách hàng rời bỏ sớm để cải thiện dịch vụ.
+
+5. Dịch vụ điện thoại (PhoneService) và Đa luồng (MultipleLines)
+Nhận xét:
+
+Đa số khách hàng sử dụng dịch vụ điện thoại (6352), chỉ 680 không sử dụng.
+
+Trong số khách hàng sử dụng điện thoại, có 2967 sử dụng đa luồng (MultipleLines).
+
+Ảnh hưởng: Dịch vụ điện thoại là nhu cầu phổ biến, nhưng dịch vụ đa luồng chưa được khai thác tối đa.
+
+Giải pháp:
+
+Quảng bá mạnh mẽ hơn về lợi ích của dịch vụ đa luồng để thu hút thêm khách hàng.
+
+Cung cấp gói combo giữa dịch vụ điện thoại và internet để tăng doanh thu.
+
+6. Dịch vụ Internet (InternetService)
+Nhận xét:
+
+Fiber optic (3096) phổ biến hơn DSL (2416), trong khi 1520 khách hàng không sử dụng dịch vụ internet.
+
+Ảnh hưởng: Fiber optic được ưa chuộng hơn do tốc độ cao, nhưng vẫn còn một bộ phận không sử dụng internet.
+
+Giải pháp:
+
+Tăng cường quảng cáo về tốc độ và ưu điểm của Fiber optic.
+
+Đề xuất gói dịch vụ internet giá rẻ cho nhóm khách hàng chưa sử dụng.
+
+
+
+8. Loại hợp đồng (Contract)
+Nhận xét:
+
+Hợp đồng ngắn hạn (Month-to-month: 3875) phổ biến hơn hợp đồng dài hạn (Two year: 1685, One year: 1472).
+
+Ảnh hưởng: Khách hàng có xu hướng linh hoạt trong việc lựa chọn dịch vụ, nhưng điều này có thể làm tăng tỷ lệ rời bỏ.
+
+Giải pháp:
+
+Ưu đãi lớn hơn cho khách hàng ký hợp đồng dài hạn để giảm tỷ lệ rời bỏ.
+
+Cung cấp các gói gia hạn tự động với ưu đãi đặc biệt.
+
+
+10. Phương thức thanh toán (PaymentMethod)
+Nhận xét:
+
+Thanh toán qua hóa đơn điện tử (Electronic check: 2365) phổ biến nhất, tiếp theo là gửi qua bưu điện (1604) và tự động qua ngân hàng/thẻ tín dụng (1542, 1521).
+
+Ảnh hưởng: Khách hàng có xu hướng ưa chuộng phương thức thanh toán tiện lợi và nhanh chóng.
+
+Giải pháp:
+
+Mở rộng các phương thức thanh toán trực tuyến, tích hợp ví điện tử phổ biến.
+
+Giảm phí hoặc tặng ưu đãi cho khách hàng sử dụng thanh toán tự động.
+
+11. Phí hàng tháng (MonthlyCharges) 
+Nhận xét:
+
+Phí hàng tháng có sự phân bổ rộng, từ giá thấp đến cao.
+
+Ảnh hưởng: Khách hàng có mức chi tiêu khác nhau, phản ánh sự đa dạng trong nhu cầu dịch vụ.
+
+Giải pháp:
+
+Phân tích nhóm khách hàng có mức phí cao để đề xuất gói dịch vụ cao cấp hơn.
+
+Cung cấp gói dịch vụ linh hoạt để phù hợp với nhiều đối tượng khách hàng.
+
+12. Tình trạng khách hàng (Churn)
+Nhận xét:
+
+Số khách hàng ở lại (5163) nhiều hơn số khách hàng rời bỏ (1869), nhưng tỷ lệ rời bỏ vẫn đáng kể (~26.5%).
+
+Ảnh hưởng: Tỷ lệ rời bỏ cao có thể do chất lượng dịch vụ, giá cả hoặc cạnh tranh từ đối thủ.
+
+Giải pháp:
+
+Phân tích nguyên nhân rời bỏ và cải thiện chất lượng dịch vụ.
+
+Triển khai chương trình khách hàng thân thiết để giảm tỷ lệ rời bỏ.
+
+Gợi ý tổng thể để công ty phát triển:
+Cải thiện chất lượng dịch vụ: Tập trung vào dịch vụ internet (đặc biệt là Fiber optic) và các dịch vụ add-on như bảo mật, sao lưu.
+
+Giảm tỷ lệ rời bỏ: Ưu đãi cho khách hàng ký hợp đồng dài hạn, cải thiện hỗ trợ khách hàng.
+
+Đa dạng hóa dịch vụ: Phát triển các gói dịch vụ phù hợp với từng nhóm khách hàng (người già, gia đình, cá nhân).
+
+Tăng cường marketing: Nhắm mục tiêu đến các nhóm khách hàng tiềm năng chưa được khai thác hiệu quả.
+
+Số hóa và tự động hóa: Khuyến khích thanh toán điện tử và cải thiện trải nghiệm người dùng trên nền tảng số.
+
+
+
+
+
+Đề Xuất & Kiến Nghị
+Dựa trên phân tích dữ liệu khách hàng, dưới đây là một số đề xuất chiến lược giúp công ty giảm tỷ lệ khách hàng rời bỏ (Churn Rate), tăng doanh thu, và nâng cao trải nghiệm khách hàng:
+
+1. Giảm Tỷ Lệ Khách Hàng Rời Bỏ (Churn Rate)
+Phân tích nguyên nhân rời bỏ:
+
+Tìm hiểu lý do khách hàng hủy dịch vụ (qua khảo sát, phản hồi).
+
+Tập trung vào nhóm khách hàng hợp đồng ngắn hạn (Month-to-month) vì họ có nguy cơ rời bỏ cao nhất.
+
+Triển khai chương trình giữ chân khách hàng:
+
+Ưu đãi đặc biệt khi gia hạn hợp đồng (ví dụ: giảm 10% phí nếu gia hạn thêm 6 tháng).
+
+Tặng thêm dịch vụ miễn phí (như bảo mật, sao lưu) cho khách hàng trung thành.
+
+2. Tăng Doanh Thu Từ Dịch Vụ Add-On
+Khuyến khích sử dụng dịch vụ bổ sung:
+
+Bundle (gói combo) dịch vụ internet + điện thoại + bảo mật với giá ưu đãi.
+
+Tặng dùng thử miễn phí 1 tháng dịch vụ hỗ trợ kỹ thuật hoặc sao lưu đám mây.
+
+Tập trung vào Fiber Optic:
+
+Quảng cáo tốc độ cao, ổn định hơn DSL để thuyết phục khách hàng nâng cấp.
+
+3. Thu Hút Nhóm Khách Hàng Tiềm Năng
+Người cao tuổi (SeniorCitizen):
+
+Thiết kế gói dịch vụ đơn giản, hỗ trợ kỹ thuật 24/7.
+
+Giảm giá 15% cho khách hàng trên 65 tuổi.
+
+Khách hàng có người phụ thuộc (Dependents):
+
+Gói gia đình với nhiều thiết bị kết nối cùng lúc, giá hợp lý.
+
+4. Cải Thiện Hệ Thống Thanh Toán
+Khuyến khích thanh toán tự động (AutoPay):
+
+Giảm 5% phí hàng tháng nếu đăng ký AutoPay qua thẻ tín dụng/ngân hàng.
+
+Mở rộng phương thức thanh toán:
+
+Tích hợp ví điện tử (Momo, ZaloPay) để tăng sự tiện lợi.
+
+5. Tối Ưu Hóa Digital Marketing
+Personalized Marketing:
+
+Gửi email/SMS đề xuất dịch vụ phù hợp với từng nhóm khách hàng (ví dụ: khách hàng dùng DSL có thể nhận ưu đãi nâng cấp lên Fiber).
+
+Tăng cường Social Media & Retargeting Ads:
+
+Quảng cáo Facebook/Google nhắm vào khách hàng đã từng sử dụng dịch vụ nhưng đã rời bỏ.
